@@ -26,7 +26,7 @@ public class Main {
         }
 
         System.out.println("Sorted =");
-        System.out.println();
+        System.out.println();// leaves gap before list start
         for(int i =0; i < numbers.length;i++ ){
             System.out.println(numbers[i]);
             //print loop to display sorted array.
